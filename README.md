@@ -19,7 +19,7 @@ A simple **HTML + JavaScript** project to capture the user’s GPS location and 
 
 ```bash
 git clone https://github.com/MASTER870-CMD/GPS_Tracking
-cd GPS_Tracking
+cd GPS-Location-tracker
 ```
 
 ---
